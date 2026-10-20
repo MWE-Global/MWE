@@ -18,3 +18,5 @@ Copy the brief into your project notes, complete the fields, and assign an owner
 Product specifications and CMS compatibility vary by model. Confirm the exact screen, player, software version, and project requirements against current product documentation.
 ## Documentation updates
 When proposing an update, include the affected document, the reason for the change, and a public source where a product-specific statement is involved.
+
+- [MWE Display Joins Dubai Business Forum – China in Shenzhen to Advance Middle East Digital Signage Partnerships](docs/dubai-business-forum-china-2026.md)
